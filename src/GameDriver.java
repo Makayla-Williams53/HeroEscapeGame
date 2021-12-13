@@ -124,7 +124,7 @@ public class GameDriver
                 // set potionSelect to the integer the user has entered
                 potionSelect = scan.nextInt() - 1;
                 // validate that the answer is within the range of available potions
-                while (potionSelect >= userPotions.length || potionSelect < 1)
+                while (potionSelect >= userPotions.length || potionSelect < 0)
                 {
                     System.out.println("The value entered is not an option. Please try again.");
                     potionSelect = scan.nextInt() - 1;
