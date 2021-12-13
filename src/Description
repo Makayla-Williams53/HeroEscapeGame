@@ -1,0 +1,16 @@
+Description: 
+My game is a combination of choose your own adventure and a pokemon fight scene. It tells the story of a brave yet mischievous hero to which the user gets to name, 
+and how they are being held captive by their archnemesis, Jorgan the Chaotic. The hero must fight Jorgan in order to escape, the user must select which move the 
+hero will do next, they can attack, run, or use a potion. How much damage each attack does is totally randomized but with a good fight strategy our hero, with the 
+help of the user, can escape the prison holding him hostage. 
+
+How to play:
+In the console enter the information to answer that specific prompt, enter a number or a name etc. the type of information that the game requires will be specified 
+throughout the story.
+
+Interesting Features:
+1.  How much damage each of the attacks does is totally randomized using the Random java class. Then through a series of if statements it determines the value and 
+assigns a certain number of damage points to it. For example if the random number is 65 then the hero will do 15 points of damage.
+2. The information regarding the villain, Jorgan, is totally random and there are lots of combinations. The two things that change are what weapon he carries, what 
+villainous quote he says during the battle. This was done by using a random number from the Random java class then having that select a certain position from the arrays
+that hold the options for weapons and quotes.
