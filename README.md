@@ -2,9 +2,8 @@
 
 ## Final for AP Computer Science A
 
-This is a console log game made in InteliJ for my high school Computer Science A class. I was required to make
-a project using realtional and logical operators, if else statments, loops, and parent and child classes. I chose
-to do this in the form of a game in the console log that uses user input in order to determien the story and whether
+This is a console log game made in InteliJ for my high school Computer Science A class. I chose
+to do this in the form of a game in the console log that uses user input in order to determine the story and whether
 or not the fictional main character escapes the dungeon.
 
 Requirements:
