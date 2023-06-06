@@ -1,4 +1,4 @@
-#HeroEscapeGame
+HeroEscapeGame
 
 ## Final for AP Computer Science A
 
